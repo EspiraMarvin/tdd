@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+
+## TESTING QUERY METHODS
+
+![TESTING QUERY METHODS](query-methods.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
