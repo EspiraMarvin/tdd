@@ -1,11 +1,11 @@
 # Getting Started with Create React App
 
 
-## TESTING QUERY METHODS
+## Testing Query Methods
 
 ![TESTING QUERY METHODS](query-methods.png)
 
-## TESTING PREFERENCE FROM TOP TO BOTTOM -
+## Testing Preference from TOP to BOTTOM 
 
 ![TESTING PREFERENCES](testing-preference.png)
 
