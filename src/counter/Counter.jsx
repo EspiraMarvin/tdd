@@ -6,7 +6,7 @@ export default function Counter() {
   const [inputValue, setInputValue] = useState(1)
 
   return (
-    <div>
+    <div className='counter'>
       <h3 data-testid="header">My Counter</h3>
       <h2 
         data-testid="counter"
