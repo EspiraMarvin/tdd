@@ -5,6 +5,18 @@
 
 ![TESTING QUERY METHODS](query-methods.png)
 
+## TESTING PREFERENCE FROM TOP TO BOTTOM -
+
+![TESTING PREFERENCES](testing-preference.png)
+
+>>>>>
+    Most preferred are `getByRole`, `getByLabelText`, `geyByPlaceholderText`, `geyByText` since they are accessible by screen readers 
+>>>>>>
+>>>>>>
+     Only use `getByTestId` when you can't access using the above methods
+>>>>>>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
