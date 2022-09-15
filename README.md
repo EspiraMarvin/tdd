@@ -3,6 +3,8 @@
 
 ## Testing Query Methods
 
+#### The `Find` method is used for async await (asychronous operations)
+
 ![TESTING QUERY METHODS](query-methods.png)
 
 ## Testing Preference from TOP to BOTTOM 
